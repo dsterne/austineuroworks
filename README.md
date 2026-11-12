@@ -1,6 +1,6 @@
 # AEW Automotive — New Website
 
-[View Site](/site)
+[View Site](/austineuroworks/site)
 
 Static site rebuild for AEW Automotive Service and Repair (Leander, TX).
 Plain HTML/CSS/JS, no framework, no build step, no backend.
